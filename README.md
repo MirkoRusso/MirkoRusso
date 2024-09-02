@@ -4,8 +4,6 @@ Passionate about programming, artificial intelligence and technological progress
 I'm always looking for new challenges that can teach me something and improve my skills.
 
 ## 💻 Tech Skills:
-## Tech Skills
-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
