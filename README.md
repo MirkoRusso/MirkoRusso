@@ -9,9 +9,12 @@ I'm always looking for new challenges that can teach me something and improve my
 
 
 ## ☎️ Connect with me
-
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirkorussodev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mirkorss/)
+  
+</div>
 
 ## 💻 Tech Skills:
 <div align="center">
