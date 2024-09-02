@@ -38,8 +38,11 @@ I'm always looking for new challenges that can teach me something and improve my
 
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirkoRusso&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=radical)
+
 </div>
+
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MirkoRusso&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
