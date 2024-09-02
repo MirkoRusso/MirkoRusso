@@ -33,19 +33,16 @@ I'm always looking for new challenges that can teach me something and improve my
 
 
 ## 📊 GitHub Stats
-
+<div align="center">
+  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirkoRusso&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirkoRusso&layout=compact&theme=radical)
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=MirkoRusso&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MirkoRusso&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ## 🖌️ Dev Quote
 > *“Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”*
