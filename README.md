@@ -36,10 +36,11 @@ I'm always looking for new challenges that can teach me something and improve my
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirkoRusso&show_icons=true&theme=radical)
 
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirkoRusso&layout=compact&theme=radical)
 
-### GitHub Streak
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirkoRusso&layout=compact&theme=radical)
+</div>
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MirkoRusso&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
