@@ -32,11 +32,15 @@ I'm always looking for new challenges that can teach me something and improve my
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirkoRusso&show_icons=true&theme=radical)
 
-## Most Used Languages
-
+### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirkoRusso&layout=compact&theme=radical)
+
+### GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MirkoRusso&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
 
