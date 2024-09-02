@@ -3,7 +3,7 @@ I'm Mirko, a computer science student at the University of Catania.
 Passionate about programming, artificial intelligence and technological progress.
 I'm always looking for new challenges that can teach me something and improve my skills.
 
-## Connect with me
+## ☎️ Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirkorussodev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mirkorss/)
