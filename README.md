@@ -1,6 +1,6 @@
 # 👋🏻 Here I am: 
-I'm Mirko, a computer science student at the University of Catania.
-Passionate about programming, artificial intelligence and technological progress.
+I'm Mirko, a Computer Science student at the University of Catania.
+Passionate about programming, Artificial Intelligence and technological progress.
 I'm always looking for new challenges that can teach me something and improve my skills.
 
 ## ☎️ Connect with me
