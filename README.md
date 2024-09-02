@@ -34,9 +34,9 @@ I'm always looking for new challenges that can teach me something and improve my
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirkoRusso&show_icons=true&theme=radical)
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirkoRusso&layout=compact&theme=radical)
 
