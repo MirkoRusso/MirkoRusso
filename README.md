@@ -1,7 +1,12 @@
 # 👋🏻 Here I am: 
+<div align="center">
+  
 I'm Mirko, a Computer Science student at the University of Catania.
 Passionate about programming, Artificial Intelligence and technological progress.
 I'm always looking for new challenges that can teach me something and improve my skills.
+  
+</div>
+
 
 ## ☎️ Connect with me
 
